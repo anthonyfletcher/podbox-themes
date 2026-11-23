@@ -75,9 +75,10 @@
 %pv(0,0,-,-,noborder)
 #
 #Track: title, then artist alternating with album and year. The second line
-#takes the album's most colourful colour, kept light enough to read
-#on the grey, and the theme's own blue with no art
+#is the theme's blue, which dynamic colours carry onto the album's colours
+#at a readable contrast. Not a palette word: those ignore the background,
+#which dynamic colours make the album's own
 %V(16,200,288,18,5)%Vf(ffffff)
 %al%s%?it<%it|%fn>
-%V(16,219,288,18,5)%Vf(vivid>75:92ccee)
+%V(16,219,288,18,5)%Vf(92ccee)
 %al%t(5)%s%?ia<%ia|%?d(2)<%d(2)|>>;%al%t(5)%s%?id<%id|%?d(1)<%d(1)|>>%?iy< · %iy|>

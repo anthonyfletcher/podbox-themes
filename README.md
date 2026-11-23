@@ -38,3 +38,6 @@ Obsede' 2 and Jive are licensed under
 under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 The fonts each theme carries sit beside their licence texts in its
 `.rockbox/fonts/`, and its README names them.
+
+The album covers in the screenshots are by
+[u/jmort125](https://www.reddit.com/user/jmort125/).
